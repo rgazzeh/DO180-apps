@@ -1,3 +1,3 @@
 <?php
-print "Hello from tunisia " . PHP_VERSION . "\n";
+print "Hello from Morocco " . PHP_VERSION . "\n";
 ?>
